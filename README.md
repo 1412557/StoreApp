@@ -1,0 +1,2 @@
+# StoreApp
+SimpleStoreApp withDjango
